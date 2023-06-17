@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    font-family: Times, serif;
+    color:red;
+    background-color: black;
+}
+.heading{
+    margin:23px 15;
+    text-align:center;
+}
